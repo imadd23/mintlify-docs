@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API References",
       "url": "api-reference"
     }
   ],
@@ -71,7 +71,7 @@
     }
   ],
   "footerSocials": {
-    "twitters": "https://twitter.com/mintlify",
+    "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
