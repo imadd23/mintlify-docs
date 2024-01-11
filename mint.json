@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Documentations",
+      "name": "Documentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Get Starteds",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
